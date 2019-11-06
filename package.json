@@ -1,0 +1,23 @@
+{
+  "name": "TypeScript-Learning",
+  "version": "1.0.0",
+  "description": "Learning TypeScript from the begining",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanfashidoufu/TypeScript-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanfashidoufu/TypeScript-Learning/issues"
+  },
+  "homepage": "https://github.com/kanfashidoufu/TypeScript-Learning#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
